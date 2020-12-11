@@ -254,11 +254,11 @@
 
 图示：生产力
 
-<img src="/Users/rabbithu/Desktop/大二上/马原/wangfengming/figure1.png" alt="截屏2020-10-30 下午1.43.21" style="zoom: 50%;" />
+<img src="figure1.png" alt="figure1.png" style="zoom: 50%;" />
 
 图示：物质生产
 
-<img src="/Users/rabbithu/Desktop/大二上/马原/wangfengming/figure2.jpeg" alt="IMG_FD037729F9BD-1" style="zoom: 33%;" />
+<img src="figure2.jpeg" alt="figure2.png" style="zoom: 33%;" />
 
 生产过程中人与人的关系：
 
@@ -289,7 +289,7 @@
 
 图示4：
 
-<img src="/Users/rabbithu/Desktop/大二上/马原/wangfengming/figure3.png" alt="截屏2020-10-30 下午3.01.20" style="zoom: 33%;" />
+<img src="figure3.png" alt="figure3.png" style="zoom: 33%;" />
 
 
 
